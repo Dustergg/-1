@@ -1,0 +1,22 @@
+* {
+  padding: 0%;
+  margin: 0;
+}
+
+#qwerty {
+  text-align: center;
+  font-size: 40px;
+  background-color: black;
+  color: white;
+  border-bottom: 3px solid silver;
+}
+
+.da {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: 30px;
+  color: aqua;
+}
+body {
+  background-color: darkgray;
+}
